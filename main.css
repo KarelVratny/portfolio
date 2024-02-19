@@ -11990,3 +11990,11 @@ section {
   border-radius: 50%;
   padding: 25px;
 }
+
+.carousel-wh {
+  height: 50vh;
+}
+
+#contact a {
+  text-decoration: none;
+}
