@@ -11984,3 +11984,9 @@ section {
   margin-bottom: 0;
   padding-bottom: 0;
 }
+
+.btn-carousel {
+  border: 3px solid white;
+  border-radius: 50%;
+  padding: 25px;
+}
